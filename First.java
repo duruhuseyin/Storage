@@ -11,6 +11,7 @@ public class First {
                 }
             }
         }
+        
 /*********************************************************/
 //        String names[] = {"elma", "armut", "uzum", "elma", "armut"};
 //
